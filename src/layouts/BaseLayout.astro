@@ -1,5 +1,6 @@
 ---
 const { title } = Astro.props;
+import '../styles/styles.css';
 ---
 
 <html lang="en">
@@ -11,6 +12,27 @@ const { title } = Astro.props;
         <title>{title}</title>
     </head>
     <body>
-        <slot />
+        <header>
+            <ul>
+                <li>
+                    <h1>cool header</h1>
+                </li>
+                <li>
+                    <a href="/"><h1>home</h1></a>
+                </li>
+                <li>
+                    <a href="/about"><h1>about</h1></a>
+                </li>
+                <li>
+                    <a href="/space-catalog"><h1>space</h1></a>
+                </li>
+            </ul>
+        </header>
+        <main>
+            <slot />
+        </main>
+        <footer>
+            <p>© 2026 Hugh Cramer. All rights reserved.</p>
+        </footer>
     </body>
 </html>

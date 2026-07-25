@@ -1,0 +1,1 @@
+© 2026 Hugh Cramer. All rights reserved.
