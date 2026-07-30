@@ -1,11 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&display=swap');
 
 :root {
 
     min-height: 100vh;
     background-color: rgb(48, 48, 48);
     color: rgb(196, 200, 202);
-    font-family: "Rubik", sans-serif;
+   font-family: "Silkscreen", sans-serif;
+  font-weight: 400;
+  font-style: normal;
     font-size: large;
 }
 
@@ -48,10 +50,10 @@ footer {
     text-align: center;
 }
 
-.cork {
+/* .cork {
     background-image: url('/public/images/cork-board.jpg');
     margin: 4em;
     padding: 4em;
     box-shadow: 10px 10px 10px rgba(255, 255, 255, 0.2) inset, -10px -10px 10px rgba(0, 0, 0, 0.229) inset;
     border-radius: 1em;
-}
+} */
