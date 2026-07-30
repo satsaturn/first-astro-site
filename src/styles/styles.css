@@ -5,8 +5,8 @@
     min-height: 100vh;
     background-color: rgb(48, 48, 48);
     color: rgb(196, 200, 202);
-        font-family: "Rubik", sans-serif;
-font-size: large;
+    font-family: "Rubik", sans-serif;
+    font-size: large;
 }
 
 
@@ -21,13 +21,13 @@ font-size: large;
 header ul {
     display: flex;
     justify-content: space-between;
-    padding: 4px 200px ;
+    padding: 4px 200px;
 }
 
 header nav ul li a {
     text-decoration: none;
-        color: rgb(196, 200, 202);
-        text-transform:uppercase;
+    color: rgb(196, 200, 202);
+    text-transform: uppercase;
 
 }
 
@@ -45,7 +45,7 @@ main {
 }
 
 footer {
-    text-align: center; 
+    text-align: center;
 }
 
 .cork {
