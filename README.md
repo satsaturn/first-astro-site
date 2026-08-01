@@ -4,7 +4,7 @@
 
 
 
-## images for how it to be done
+## images for how it to be done - but no img rotation
 ![image](public/images/Screenshot%202026-08-01%20163606.png)
 ![image](public/images/Screenshot%202026-08-01%20163615.png)
 ![image](public/images/Screenshot%202026-08-01%20163624.png)
