@@ -2,6 +2,14 @@
 ## im Saturn Satellite and this website is for my photos and random other stuff
 
 
+### to do
+fix github pages <br>
+make new layout file for aside <br>
+work out how to scale text <br>
+make art for background <br>
+make background scale right <br>
+
+
 
 
 ## images for how it to be done - but no img rotation

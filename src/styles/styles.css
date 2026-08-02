@@ -3,26 +3,28 @@
 :root {
 
     min-height: 100vh;
-    background-color: rgb(48, 48, 48);
-    color: rgb(196, 200, 202);
+    background-color: #181923;
+    color: #8b7982;
     font-family: "Silkscreen", sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 25px;
 }
-/* 
+
 h1 {
     font-weight: 700;
     font-size: 2rem;
+    color: #b59e90;
 }
 
 h2 {
-    font-weight: 700;
-    font-size: 1rem;
+    font-weight: 400;
+    font-size: 2rem;
+    
 }
 
 h3 {
-    font-weight: 400;
+    font-weight: 700;
     font-size: 1rem;
 }
 
@@ -43,7 +45,7 @@ h6 {
 
 p {
     font-size: 1rem;
-} */
+}
 
 * {
     text-decoration: none;
@@ -61,7 +63,7 @@ header ul {
 
 header nav ul li a {
     text-decoration: none;
-    color: rgb(196, 200, 202);
+    color: #b59e90;
     text-transform: uppercase;
 
 }
