@@ -6,6 +6,7 @@
     --c-normal: #8b7982;
     --c-background: #181923;
     /* size */
+    --pixel: 5px;
     --f-normal: 25px;
     --f-large: 50px;
     /* font */
