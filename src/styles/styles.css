@@ -1,20 +1,30 @@
 @import url('https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&display=swap');
 
 :root {
+/* theme */
+
+--highlight: #b59e90;
+--normal: #8b7982;
+--background: #181923;
+
 
     min-height: 100vh;
-    background-color: #181923;
-    color: #8b7982;
+    background-color:var(--background);
+    color: var(--normal);
     font-family: "Silkscreen", sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: 25px;
+
+
+
+    
 }
 
 h1 {
     font-weight: 700;
     font-size: 2rem;
-    color: #b59e90;
+    color: var(--highlight);
 }
 
 h2 {
@@ -63,7 +73,7 @@ header ul {
 
 header nav ul li a {
     text-decoration: none;
-    color: #b59e90;
+    color: var(--highlight);
     text-transform: uppercase;
 
 }
@@ -96,3 +106,10 @@ footer {
     box-shadow: 10px 10px 10px rgba(255, 255, 255, 0.2) inset, -10px -10px 10px rgba(0, 0, 0, 0.229) inset;
     border-radius: 1em;
 } */
+
+.test-block {
+    height: 500px;
+    width: 500px;
+    background-color: red;
+
+}
